@@ -20,32 +20,32 @@ body{
 	text-align: center;
 }
 .contentl{
-    width: 40%;
-	height: 80%;
+    width: 39%;
+	height: 79%;
     background-color:rgb(161, 156, 156);
     float: left;
  } 
  .contentm{
-    width: 40%;
-	height: 80%;    
+    width: 39%;
+	height: 79%;    
     background-color:rgb(121, 117, 117);
     float: left;
  } 
  .contentr{
-    width: 20%;
-	height: 80%;
+    width: 19%;
+	height: 79%;
     background-color:rgb(99, 96, 96);
     float: left;
  } 
  .footer{
-    width: 100%;
-	height: 30%;
+    width: 99%;
+	height: 29%;
     background-color:grey;
     float: left;
  } 
 .banner{
-    width: 100%;
-    height: 30%;
+    width: 99%;
+    height: 29%;
     background-color:grey;
     float: left;
 }
