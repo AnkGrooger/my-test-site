@@ -19,6 +19,13 @@ body{
 	font-family: Rockwell;
 	text-align: center;
 }
+
+img.Pic3{
+    width: 40%;
+    height: auto;
+}
+
+
 .contentl{
     width: 40%;
 	height: 80%;
